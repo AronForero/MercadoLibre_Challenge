@@ -1,3 +1,4 @@
 *.csv
 train.csv.gz
 .ipynb_checkpoints/
+Pre-trained/
